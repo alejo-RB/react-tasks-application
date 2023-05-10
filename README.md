@@ -5,7 +5,7 @@
 This is a very basic project to develop React + Vite concepts, such as components, Show task list, Add tasks to form, Separate components, Remove Task, create Context, useContext and TailwindCSS.
 
 
-## Authors✒️
+## Author✒️
 **Alejandro Rodriguez**
 <p align="left">
 <a href="https://github.com/alejo-RB" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/150/null/github.png" alt="https://github.com/alejo-RB" height="40" width="40" /></a>
