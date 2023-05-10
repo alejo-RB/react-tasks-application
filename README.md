@@ -14,7 +14,7 @@ This is a very basic project to develop React + Vite concepts, such as component
 
 ## See live example👨🏽‍💻🔗
 
-* [Proyecto](https://alejo-rb.github.io/react-tasks-application/)
+<a href="https://alejo-rb.github.io/react-tasks-application/" target="blank"><img align="center" src="https://img.icons8.com/color/48/internet--v1.png" alt="https://alejo-rb.github.io/react-tasks-application/" height="40" width="40" /></a> 👈🏽
 
 ## Contracting
 If you want to hire me you can write to me at arodriguez.working@gmail.com 📧 for inquiries.
